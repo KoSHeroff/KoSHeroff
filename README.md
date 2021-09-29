@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/KoSHeroff/KoSHeroff/main/src/header.jpg"></img>
 
-### Socials
+# Socials
 <p align='center'>
 <a href="https://www.instagram.com/offkosher/" style="margin: 10px;"><img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>ᅠ ᅠ
 <a href="https://vk.com/offkosher/" style="margin: 10px;"><img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111712.png"></a>ᅠ ᅠ
